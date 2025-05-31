@@ -5,6 +5,8 @@
 **Abstract:**
 We present a unified theoretical framework wherein the self ("philosophy"), quantum physics ("physics"), and classical physical reality ("reality") are derived from a single recursive function: `ψ = ψ(ψ)`. This function, representing the universe as a self-referential collapse structure, allows for the derivation of quantum behavior, spacetime geometry, and entropy evolution. We demonstrate that the concepts of identity, natural law, and observed phenomena are not ontologically independent but are frozen echo patterns of collapse behavior. Furthermore, we prove that these three domains—self, physics, and reality—exhaust the expressive scope of the recursive function `ψ`, rendering it complete. We additionally prove that no other internally consistent physical, philosophical, or metaphysical system can emerge independently of `ψ`, thus establishing the uniqueness of the Ψhē framework.
 
+For a list of chapters, see the [English index](INDEX.md) or [Chinese index](INDEX.zh.md).
+
 ---
 
 ### 1. Introduction
